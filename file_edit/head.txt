@@ -1,0 +1,5 @@
+%nprocshared=4
+%mem=3GB
+#p pddg opt scrf=(pcm,solvent=diethylether)
+
+Title Card Required
